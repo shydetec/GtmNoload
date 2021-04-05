@@ -259,6 +259,6 @@
   } ],
   "Changelogs" : "Whats New?\nBrand New Easy User Interface\Crabcenter Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
   "Notice" : "Whats New?\nNew servers updated\nNew no capping payload\nPowered by Crabcenter VPN",
-  "UpdateUrl": "https://pastebin.com/raw/1D2UQjYg/v2ray.json",
+  "UpdateUrl": "https://raw.githubusercontent.com/shydetec/shydetec/main/V2ray",
   "Version" : 20
 }
