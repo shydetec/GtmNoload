@@ -1,0 +1,166 @@
+{
+  "Servers" : [ {
+    "Category" : 0,
+    "DomainOrIP" : "gtmnoloadcrabv1.jhanevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "Premium | Surfing Downloading Gaming 1",
+    "AlterID" : "64",
+    "Port" : "443"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "gtmnoloadcrabv1.jhanevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "Premium | Surfing Downloading Gaming 2",
+    "AlterID" : "64",
+    "Port" : "443"
+  }, {
+    "Category" : 0,
+    "DomainOrIP" : "gtmnoloadcrabv1.jhanevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "Premium | Surfing Downloading Gaming 3",
+    "AlterID" : "64",
+    "Port" : "443"
+ }, {
+    "Category" : 0,
+    "DomainOrIP" : "gtmnoloadcrabv1.jhanevpn.xyz",
+    "Flag" : "sg",
+    "Name" : "Premium | Surfing Downloading Gaming 4",
+    "AlterID" : "64",
+    "Port" : "443"
+ }, {
+    "Category" : 1,
+    "DomainOrIP" : "gtmnoloadcrabv1.jhanevpn.xyz",
+    "Flag" : "de",
+    "Name" : "VIP | Surfing Downloading Gaming 1",
+    "AlterID" : "64",
+    "Port" : "443"
+ }, {
+    "Category" : 1,
+    "DomainOrIP" : "gtmnoloadcrabv1.jhanevpn.xyz",
+    "Flag" : "de",
+    "Name" : "VIP | Surfing Downloading Gaming 2",
+    "AlterID" : "64",
+    "Port" : "443"
+ }, {
+    "Category" : 1,
+    "DomainOrIP" : "gtmnoloadcrabv1.jhanevpn.xyz",
+    "Flag" : "de",
+    "Name" : "VIP | Surfing Downloading Gaming 3",
+    "AlterID" : "64",
+    "Port" : "443"
+ }, {
+    "Category" : 1,
+    "DomainOrIP" : "gtmnoloadcrabv1.jhanevpn.xyz",
+    "Flag" : "de",
+    "Name" : "VIP | Surfing Downloading Gaming 4",
+    "AlterID" : "64",
+    "Port" : "443"
+ }, {
+    "Category" : 2,
+    "DomainOrIP" : "gtmnoloadcrabv1.jhanevpn.xyz",
+    "Flag" : "us",
+    "Name" : "Private | Surfing Downloading Gaming 1",
+    "AlterID" : "64",
+    "Port" : "443"
+ }, {
+    "Category" : 2,
+    "DomainOrIP" : "gtmnoloadcrabv1.jhanevpn.xyz",
+    "Flag" : "us",
+    "Name" : "Private | Surfing Downloading Gaming 2",
+    "AlterID" : "64",
+    "Port" : "443"
+ }, {
+    "Category" : 2,
+    "DomainOrIP" : "gtmnoloadcrabv1.jhanevpn.xyz",
+    "Flag" : "us",
+    "Name" : "Private | Surfing Downloading Gaming 3",
+    "AlterID" : "64",
+    "Port" : "443"
+ }, {
+    "Category" : 2,
+    "DomainOrIP" : "gtmnoloadcrabv1.jhanevpn.xyz",
+    "Flag" : "us",
+    "Name" : "Private | Surfing Downloading Gaming 4",
+    "AlterID" : "64",
+    "Port" : "443"
+ }, {
+    "Category" : 2,
+    "DomainOrIP" : "gtmnoloadcrabv1.jhanevpn.xyz",
+    "Flag" : "us",
+    "Name" : "Private | Surfing Downloading Gaming 5",
+    "AlterID" : "64",
+    "Port" : "443"
+ }, {
+    "Category" : 2,
+    "DomainOrIP" : "gtmnoloadcrabv1.jhanevpn.xyz",
+    "Flag" : "us",
+    "Name" : "Private | Surfing Downloading Gaming 6",
+    "AlterID" : "64",
+    "Port" : "443"
+  }],
+  "Payloads" : [ {
+    "Host" : "104.17.64.1",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 1"
+  },{
+    "Host" : "gtm.forever.darkgundamemmay.cf",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 2"
+  },{
+    "Host" : "104.17.64.1",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 3"
+  },{
+    "Host" : "gtm.forever.darkgundamemmay.cf",
+    "Icon" : "globe",
+    "Network" : "globe",
+    "Name" : "GTM noload 4"
+  }, {
+    "Host" : "www.onetrust.com",
+    "Icon" : "smart",
+    "Network" : "smart",
+    "Name" : "STS noload 1"
+  }, {
+    "Host" : "www.onetrust.com",
+    "Icon" : "smart",
+    "Network" : "smart",
+    "Name" : "STS noload 2"
+  }, {
+    "Host" : "www.onetrust.com",
+    "Icon" : "smart",
+    "Network" : "smart",
+    "Name" : "STS noload 3"
+  }, {
+    "Host" : "api.gomo.ph",
+    "Icon" : "gomo",
+    "Network" : "gomo",
+    "Name" : "GOMO noload 1"
+  }, {
+    "Host" : "www.gomo.ph",
+    "Icon" : "gomo",
+    "Network" : "gomo",
+    "Name" : "GOMO noload 2"
+  }, {
+    "Host" : "www.api.gomo.ph.com",
+    "Icon" : "gomo",
+    "Network" : "gomo",
+    "Name" : "GOMO noload 3"
+  }, {
+    "Host" : "www.gomo.dito.ph.com",
+    "Icon" : "gomo",
+    "Network" : "gomo",
+    "Name" : "GOMO noload 4"
+  }, {
+    "Host" : "www.dito.ph",
+    "Icon" : "dito",
+    "Network" : "dito",
+    "Name" : "DITO noload 1"
+  } ],
+  "Changelogs" : "Whats New?\nBrand New Easy User Interface\Crabcenter Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
+  "Notice" : "Whats New?\nNew servers updated\nNew no capping payload new updates server noload",
+  "UpdateUrl": "https://pastebin.com/raw/1D2UQjYg/v2ray.json",
+  "Version" : 25
+}
