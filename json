@@ -161,6 +161,6 @@
   } ],
   "Changelogs" : "Whats New?\nBrand New Easy User Interface\Crabcenter Loaded Core SDK 29 Support\nFix and Added New Encryption for Security\nSecured and Fastest Servers",
   "Notice" : "Whats New?\nNew servers updated\nNew no capping payload new updates server noload",
-  "UpdateUrl": "https://pastebin.com/raw/1D2UQjYg/v2ray.json",
+  "UpdateUrl": "https://raw.githubusercontent.com/shydetec/V2ray/main/json",
   "Version" : 25
 }
